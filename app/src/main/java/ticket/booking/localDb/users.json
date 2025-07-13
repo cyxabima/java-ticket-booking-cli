@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "123456",
+    "user_name": "cyxabima",
+    "password": "abc12335",
+  "ticket_booked": [
+    {
+      "ticket_id": "123456",
+      "source": "Karachi",
+      "destination": "Islamabad",
+      "date_of_travel": "2025-12-08T18:30:00Z",
+      "train": {
+        "train_id": "basca",
+        "train_no": 123,
+        "train_name" : "Awam",
+        "seats" : [
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0],
+          [0,0,0,0,0]
+        ],
+        "station_time": {
+          "Karachi": "13:50:00",
+          "Hyderabad": "15:50:00",
+          "Sukkur": "18:20:00",
+          "Bhawalpur": "20:50:00",
+          "Lahore" : "22:50:00",
+          "Islamabad": "23:59:00"
+        },
+        "stations" : ["Karachi", "Hyderabad", "Sukkur", "Bhawalpur", "Lahore", "Islamabad"]
+      }
+    }
+
+  ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "train_id": "basca",
+    "train_no": 123,
+    "train_name": "Awam Express",
+    "seats": [
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0]
+    ],
+    "stations": ["Karachi", "Hyderabad", "Sukkur", "Bahawalpur", "Lahore", "Islamabad"],
+    "station_time": {
+      "Karachi": "13:50:00",
+      "Hyderabad": "15:50:00",
+      "Sukkur": "18:20:00",
+      "Bahawalpur": "20:50:00",
+      "Lahore": "22:50:00",
+      "Islamabad": "23:59:00"
+    }
+  },
+  {
+    "train_id": "qexp",
+    "train_no": 204,
+    "train_name": "Quetta Express",
+    "seats": [
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0]
+    ],
+    "stations": ["Karachi", "Rohri", "Jacobabad", "Quetta"],
+    "station_time": {
+      "Karachi": "08:00:00",
+      "Rohri": "14:00:00",
+      "Jacobabad": "18:00:00",
+      "Quetta": "23:30:00"
+    }
+  },
+  {
+    "train_id": "ghuri",
+    "train_no": 341,
+    "train_name": "Ghouri Express",
+    "seats": [
+      [0, 0, 0],
+      [0, 0, 0],
+      [0, 0, 0]
+    ],
+    "stations": ["Lahore", "Sargodha", "Mianwali", "Rawalpindi"],
+    "station_time": {
+      "Lahore": "09:30:00",
+      "Sargodha": "12:00:00",
+      "Mianwali": "14:00:00",
+      "Rawalpindi": "17:00:00"
+    }
+  },
+  {
+    "train_id": "karexp",
+    "train_no": 101,
+    "train_name": "Karachi Express",
+    "seats": [
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0],
+      [0, 0, 0, 0]
+    ],
+    "stations": ["Karachi", "Hyderabad", "Rohri", "Multan", "Lahore"],
+    "station_time": {
+      "Karachi": "07:45:00",
+      "Hyderabad": "09:45:00",
+      "Rohri": "13:30:00",
+      "Multan": "17:15:00",
+      "Lahore": "22:00:00"
+    }
+  },
+  {
+    "train_id": "mlexp",
+    "train_no": 432,
+    "train_name": "Millat Express",
+    "seats": [
+      [0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0]
+    ],
+    "stations": ["Karachi", "Faisalabad", "Jhang", "Multan", "Rawalpindi"],
+    "station_time": {
+      "Karachi": "06:15:00",
+      "Faisalabad": "12:45:00",
+      "Jhang": "14:00:00",
+      "Multan": "16:30:00",
+      "Rawalpindi": "21:45:00"
+    }
+  }
+]
